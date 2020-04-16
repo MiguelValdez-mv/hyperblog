@@ -12,3 +12,10 @@ body {
   border: 1px solid #ddd;
   margin: 0 auto;
 }
+
+.header {
+  background-color: rgb(56, 56, 192);
+  padding: 0.5em;
+  margin: 0px;
+  color: white;
+}
