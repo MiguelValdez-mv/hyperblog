@@ -3,7 +3,7 @@ body {
   font-family: Arial;
   padding: 0px;
   margin: 0px;
-  background-color: cornflowerblue;
+  background-color: black;
 }
 
 .container {
@@ -12,6 +12,7 @@ body {
   text-align: center;
   border: 1px solid #ddd;
   margin: 0 auto;
+  background-color: white;
 }
 
 .header {
